@@ -21,7 +21,7 @@
   "devDependencies": {
     "@iconify/json": "^2.2.165",
     "@playwright/test": "^1.28.1",
-    "@sveltejs/kit": "^1.27.4",
+    "@sveltejs/kit": "^1.30.4",
     "@types/jsonwebtoken": "^9.0.5",
     "@types/markdown-it": "^13.0.7",
     "@types/uuid": "^9.0.7",
